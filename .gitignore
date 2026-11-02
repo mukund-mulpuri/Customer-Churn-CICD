@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
+MLOps_Q4_Telecom_Customer_Churn_Dataset.xlsx
